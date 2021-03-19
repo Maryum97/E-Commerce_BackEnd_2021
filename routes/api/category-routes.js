@@ -25,14 +25,13 @@ router.get('/:id', async (req, res) => {
   try {
     // find a category by id
     // be sure to include its associated Products
-    const categoryData = await Category.findOne({
+    const categoryData = await Category.findByPk({
       where: {
         id: req.params.id
       },
       include: [
         {
-          model: Product,
-          attributes: ['id', 'product_name', 'price', 'stock', 'category_id']
+          model: Product
         }]
     });
 
