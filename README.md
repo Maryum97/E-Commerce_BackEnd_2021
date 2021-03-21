@@ -41,12 +41,20 @@ After having set up all of the above installations, the user must follow the ins
 5. Modify the .env file to have the DB_USER and DB_PASSWORD defined (make sure DB_NAME is also defined)
 6. Run npm run seed (if that doesn't work check the seeds folder and see what is the filename that sends data to the database - it usually is called seed.js or index.js, once you find it, run node seeds/"filename", index.js in this case)
 7. Run node server.js, and you are now done with node!
-8. Move over to Insomnia, and create the files and requests in the left column, as shown in the video, and follow the next steps as the video demonstrates.
+8. Move over to Insomnia, and create the files and requests in the left column, as shown in the video, and follow the next steps as the video (linked in Usage) demonstrates.
+
+After following all the steps chronologically, the Insomnia environment for different requests must look like the images shown below as examples:
+
+![GET request for categories](https://user-images.githubusercontent.com/73832871/111921324-df842a00-8a8b-11eb-9f6c-37ecd1d07278.png)
+GET request for categories
+
+![POST request for tags](https://user-images.githubusercontent.com/73832871/111921327-e0b55700-8a8b-11eb-9fa2-81011d308492.png)
+POST request for tags
 
 ## 💻 Usage
 Watch the video linked below:
 
-<a href=""></a>
+<a href="https://drive.google.com/file/d/1FjGCJ2WhsZMYxCR5PoAoiX0UDW3TxH2Y/view">E-Commerce BackEnd Demo Video</a>
 
 ## License
 <a href="https://github.com/Maryum97/Note_Taker_2021/blob/main/LICENSE">MIT License</a>
