@@ -54,7 +54,7 @@ POST request for tags
 ## 💻 Usage
 Watch the video linked below, it is a step-by-step guide on how to make use of this very innovative app:
 
-<a href="https://drive.google.com/file/d/1FjGCJ2WhsZMYxCR5PoAoiX0UDW3TxH2Y/view">E-Commerce BackEnd Demo Video</a>
+<a href="https://drive.google.com/file/d/1FjGCJ2WhsZMYxCR5PoAoiX0UDW3TxH2Y/view" target="_blank">E-Commerce BackEnd Demo Video</a>
 
 ## License
 <a href="https://github.com/Maryum97/Note_Taker_2021/blob/main/LICENSE">MIT License</a>
@@ -71,9 +71,9 @@ There were no particular test that this app has been made to pass, except for th
 I used quite a bit of help from the following sources and fellow colleagues:
 
 Sources:
-1. <a href="https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a2">blog.bitsrc.io</a>
-2. <a href="https://sequelize.org/master/manual/assocs.html">sequelize.org/master/manual/assocs.html</a>
-3. <a href="https://sequelize.org/master/manual/validations-and-constraints.html"></a>
+1. blog.bitsrc.io
+2. sequelize.org/master/manual
+3. Github.com
 4. StackOverflow
 5. W3Schools
 6. AskBCS
