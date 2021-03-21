@@ -81,6 +81,7 @@ Sources:
 My friends:
 1. Karen Opoku (I owe you one!)
 2. Alisha Saleh
+3. Claire Davies
 
 ## ✋ Questions
 If you have any questions, feel free to contact me using the details provided below:<br />
