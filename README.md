@@ -52,7 +52,7 @@ GET request for categories
 POST request for tags
 
 ## 💻 Usage
-Watch the video linked below:
+Watch the video linked below, it is a step-by-step guide on how to make use of this very innovative app:
 
 <a href="https://drive.google.com/file/d/1FjGCJ2WhsZMYxCR5PoAoiX0UDW3TxH2Y/view">E-Commerce BackEnd Demo Video</a>
 
